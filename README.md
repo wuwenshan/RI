@@ -1,2 +1,0 @@
-# RI
-Recherche d'Information
